@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-31: Finalized my ideas for the timer cube. I want to have an IMU to sense rotation and an 8x8 LED matrix to display pixel art numbers.](#2026-10-31-finalized-my-ideas-for-the-timer-cube-i-want-to-h)
-2. [2026-11-01: Today I grinded out the final parts for this project. I brainstormed and drew a flowchart for the code. ![IMG_3009](https://halflife.hackclub-assets.com/sessions/Kyb1R5ebGdRzjWmDUY3hYg1WKrU7khl4/41a36](#2026-11-01-today-i-grinded-out-the-final-parts-for-this-proj)
+2. [2026-11-01: Today I grinded out the final parts for this project. I updated the BOM and README on GitHub to reflect all the changes.](#2026-11-01-today-i-grinded-out-the-final-parts-for-this-proj)
 
 ## Design
 
@@ -37,11 +37,13 @@ Tomorrow I plan to finalize the 3D model for the cube case and write some basic 
 
 [Timelapse](https://lookout.hackclub.com/api/media/76ade092-4a12-43d1-b871-25cd6a9a582d/video.mp4)
 
-### 2026-11-01: Today I grinded out the final parts for this project. I brainstormed and drew a flowchart for the code. ![IMG_3009](https://halflife.hackclub-assets.com/sessions/Kyb1R5ebGdRzjWmDUY3hYg1WKrU7khl4/41a36
+### 2026-11-01: Today I grinded out the final parts for this project. I updated the BOM and README on GitHub to reflect all the changes.
 
 **4.2h**
 
-Today I grinded out the final parts for this project. I brainstormed and drew a flowchart for the code. ![IMG_3009](https://halflife.hackclub-assets.com/sessions/Kyb1R5ebGdRzjWmDUY3hYg1WKrU7khl4/41a368fee31e8b63cb2c3aea77c78500a873a9b19b5ed6e0eb72a714adb245e1.jpg)
+Today I grinded out the final parts for this project. I updated the BOM and README on GitHub to reflect all the changes.
+
+ I brainstormed and drew a flowchart for the code. ![IMG_3009](https://halflife.hackclub-assets.com/sessions/Kyb1R5ebGdRzjWmDUY3hYg1WKrU7khl4/41a368fee31e8b63cb2c3aea77c78500a873a9b19b5ed6e0eb72a714adb245e1.jpg)
 But I ran out of time to program it so I will have to wait till the build week for that.
 
 I tweaked the CAD model for the cube because I had forgot to add space for the backpack that drives the matrix. I also added fillets to the edges to make it look softer.  I decided to leave the back open so I can easily access the components. I will also be powering it through USB-C.
